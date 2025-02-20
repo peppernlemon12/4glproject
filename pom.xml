@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>4glapp</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
